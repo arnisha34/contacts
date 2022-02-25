@@ -63,7 +63,6 @@ const contacts = [
   }
 ]
 
-
 function App(props) {
   return (
     <div className="App">
