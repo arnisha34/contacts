@@ -1,6 +1,10 @@
+<h1>Contacts App</h1>
+
+<img width="1563" alt="Screen Shot 2022-02-24 at 5 59 05 PM" src="https://user-images.githubusercontent.com/970143/155639760-270b69cf-50e4-47ce-bdf3-1f4be2249b37.png">
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
