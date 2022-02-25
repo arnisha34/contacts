@@ -4,7 +4,7 @@
 
 # Getting Started with Create React App
 
-This project was created with React.
+This project was created with React.js
 
 ## Available Scripts
 
